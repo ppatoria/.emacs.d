@@ -1,0 +1,231 @@
+;; Object semanticdb-project-database-file-1d7bbf4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1d7bbf4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1d9a6de"
+      :major-mode c++-mode
+      :tags 
+        '( ("string" include (:system-flag t) nil [38 55])
+            ("TypeTraits.hpp" include (:system-flag t) nil [56 81])
+            ("boost/date_time/gregorian/gregorian.hpp" include (:system-flag t) nil [82 132])
+            ("dt" type
+               (:members 
+                  ( ("boost::gregorian" using (:type ("boost::gregorian" type
+                         (:prototype t
+                          :type "namespace")
+                          nil nil)) (reparse-symbol namespacesubparts) [153 186])
+                    ("std::string" variable (:type "int") (reparse-symbol namespacesubparts) [204 216])
+                    ("Date" type
+                       (:superclasses 
+                          ( ("boost::gregorian::date" type
+                               (:protection "public"
+                                :type "class")
+                                nil nil))                          
+                        :members 
+                          ( ("public" label nil (reparse-symbol classsubparts) [275 282])
+                            ("DataType" type
+                               (:typedef ("date" type (:type "class") nil nil)
+                                :type "typedef")
+                                (reparse-symbol classsubparts) [292 314])
+                            ("YearType" type
+                               (:typedef ("DataType::year_type" type (:type "class") nil nil)
+                                :type "typedef")
+                                (reparse-symbol classsubparts) [324 362])
+                            ("MonthType" type
+                               (:typedef ("DataType::month_type" type (:type "class") nil nil)
+                                :type "typedef")
+                                (reparse-symbol classsubparts) [371 410])
+                            ("DayType" type
+                               (:typedef ("DataType::day_type" type (:type "class") nil nil)
+                                :type "typedef")
+                                (reparse-symbol classsubparts) [419 456])
+                            ("Date" function
+                               (:constructor-flag t
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [467 491])
+                            ("Date" function
+                               (:constructor-flag t
+                                :arguments 
+                                  ( ("value" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("DataType" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [507 530]))                                  
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [501 552])
+                            ("Date" function
+                               (:constructor-flag t
+                                :arguments 
+                                  ( ("year" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("YearType" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [568 590])
+                                    ("month" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("MonthType" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [591 615])
+                                    ("day" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("DayType" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [616 636]))                                  
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [562 693])
+                            ("Date" function
+                               (:constructor-flag t
+                                :arguments 
+                                  ( ("year" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("YearType" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [709 731])
+                                    ("month" variable (:type "int") (reparse-symbol arg-sub-list) [732 742])
+                                    ("day" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("DayType" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [743 763]))                                  
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [703 857])
+                            ("Date" function
+                               (:constructor-flag t
+                                :arguments 
+                                  ( ("dayNumber" variable (:type ("size_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [873 890]))                                  
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [867 979])
+                            ("=" function
+                               (:operator-flag t
+                                :arguments 
+                                  ( ("value" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("DataType" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [1008 1031]))                                  
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [989 1110])
+                            ("value" function
+                               (:methodconst-flag t
+                                :constant-flag t
+                                :type ("DataType" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [1120 1188])
+                            ("value" function (:type ("DataType" type (:type "class") nil nil)) (reparse-symbol classsubparts) [1198 1254])
+                            ("clear" function (:type "void") (reparse-symbol classsubparts) [1366 1440])
+                            ("empty" function
+                               (:methodconst-flag t
+                                :type "bool")
+                                (reparse-symbol classsubparts) [1450 1538])
+                            ("year" function
+                               (:methodconst-flag t
+                                :type ("YearType" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [1548 1640])
+                            ("month" function
+                               (:methodconst-flag t
+                                :type ("MonthType" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [1650 1745])
+                            ("day" function
+                               (:methodconst-flag t
+                                :type ("DayType" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [1755 1844])
+                            ("toString" function
+                               (:methodconst-flag t
+                                :type ("String" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [1854 1989])
+                            ("toString" function
+                               (:methodconst-flag t
+                                :arguments 
+                                  ( ("format" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type "char")
+                                        (reparse-symbol arg-sub-list) [2016 2036]))                                  
+                                :type ("String" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [1999 2161])
+                            ("toString" function
+                               (:methodconst-flag t
+                                :arguments 
+                                  ( ("s" variable
+                                       (:reference 1
+                                        :type ("String" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [2186 2197]))                                  
+                                :type "void")
+                                (reparse-symbol classsubparts) [2171 2413])
+                            ("fromString" function
+                               (:prototype-flag t
+                                :arguments 
+                                  ( ("value" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type "char")
+                                        (reparse-symbol arg-sub-list) [2551 2570])
+                                    ("format" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :default-value "\"\""
+                                        :type "char")
+                                        (reparse-symbol arg-sub-list) [2571 2595]))                                  
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [2532 2597])
+                            ("fromString" function
+                               (:arguments 
+                                  ( ("s" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("String" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [2627 2644])
+                                    ("format" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :default-value "\"\""
+                                        :type "char")
+                                        (reparse-symbol arg-sub-list) [2645 2668]))                                  
+                                :type ("Date" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [2608 2753])
+                            ("toString" function
+                               (:prototype-flag t
+                                :methodconst-flag t
+                                :arguments 
+                                  ( ("s" variable
+                                       (:reference 1
+                                        :type ("String" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [2782 2793])
+                                    ("format" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type "char")
+                                        (reparse-symbol arg-sub-list) [2794 2814]))                                  
+                                :type "void")
+                                (reparse-symbol classsubparts) [2763 2821])
+                            ("<<" function
+                               (:operator-flag t
+                                :typemodifiers ("friend")
+                                :arguments 
+                                  ( ("os" variable
+                                       (:reference 1
+                                        :type ("std::ostream" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [2864 2881])
+                                    ("value" variable
+                                       (:reference 1
+                                        :constant-flag t
+                                        :type ("Date" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [2882 2901]))                                  
+                                :type ("std::ostream" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [2831 2977]))                          
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [222 2984]))                  
+                :type "namespace")
+                nil [134 2986]))          
+      :file "Date.hpp"
+      :pointmax 3003
+      :fsize 3002
+      :lastmodtime '(25396 41268 412757 0)
+      :unmatched-syntax '((semantic-list 1311 . 1356) (CONST 1293 . 1298) (semantic-list 1290 . 1292) (punctuation 1288 . 1289) (symbol 1279 . 1287) (CONST 1273 . 1278) (OPERATOR 1264 . 1272) (punctuation 203 . 204) (symbol 197 . 203) (USING 191 . 196) (symbol 9 . 13) (symbol 2 . 8) (punctuation 1 . 2)))
+    (semanticdb-table "semanticdb-table-2238304"
+      :file "TypeTraits.hpp"
+      :fsize 694
+      :lastmodtime '(25395 3372 986673 900000)))
+  :file "!mnt!c!Users!ppato!source!repos!datetime_old!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

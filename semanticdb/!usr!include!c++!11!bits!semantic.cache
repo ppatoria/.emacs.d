@@ -1,0 +1,104 @@
+;; Object semanticdb-project-database-file-377d10a
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-377d10a"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-ab95d2"
+      :major-mode c++-mode
+      :tags 
+        '( ("_GLIBCXX_PARSE_NUMBERS_H" variable (:constant-flag t) nil [1312 1336])
+            ("type_traits" include (:system-flag t) nil [1471 1493])
+            ("ext/numeric_traits.h" include (:system-flag t) nil [1494 1525])
+            ("_GLIBCXX_VISIBILITY" function (:type ("std" type (:type "class") nil nil)) nil [1537 7910]))          
+      :file "parse_numbers.h"
+      :pointmax 7981
+      :fsize 7980
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((DEFAULT 1561 . 1568) (NAMESPACE 1527 . 1536) (symbol 1352 . 1365) (symbol 1348 . 1351) (symbol 1341 . 1347) (punctuation 1340 . 1341))
+      :lexical-table 
+        '(("_GLIBCXX_PARSE_NUMBERS_H" . ((number "1" 1337 . 1338)))
+          )
+)
+    (semanticdb-table "semanticdb-table-db3648"
+      :major-mode c++-mode
+      :tags 
+        '( ("_STRINGFWD_H" variable (:constant-flag t) nil [1323 1335])
+            ("bits/c++config.h" include (:system-flag t) nil [1366 1393])
+            ("bits/memoryfwd.h" include (:system-flag t) nil [1394 1421])
+            ("_GLIBCXX_VISIBILITY" function (:type ("std" type (:type "class") nil nil)) nil [1433 2649]))          
+      :file "stringfwd.h"
+      :pointmax 2691
+      :fsize 2690
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((DEFAULT 1457 . 1464) (NAMESPACE 1423 . 1432) (symbol 1351 . 1364) (symbol 1347 . 1350) (symbol 1340 . 1346) (punctuation 1339 . 1340))
+      :lexical-table 
+        '(("_STRINGFWD_H" . ((number "1" 1336 . 1337)))
+          )
+)
+    (semanticdb-table "semanticdb-table-db3680"
+      :file "char_traits.h"
+      :fsize 29350
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db36c6"
+      :file "allocator.h"
+      :fsize 9727
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db370e"
+      :file "cpp_type_traits.h"
+      :fsize 14003
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db3a7c"
+      :file "localefwd.h"
+      :fsize 5943
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db3ac4"
+      :file "ostream_insert.h"
+      :fsize 4038
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db3b0c"
+      :file "stl_iterator_base_types.h"
+      :fsize 9662
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db3e84"
+      :file "stl_iterator_base_funcs.h"
+      :fsize 8178
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db3eba"
+      :file "stl_iterator.h"
+      :fsize 74974
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db3f02"
+      :file "stl_function.h"
+      :fsize 43897
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db4f2a"
+      :file "stl_algobase.h"
+      :fsize 76254
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db4f72"
+      :file "range_access.h"
+      :fsize 10707
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db52e0"
+      :file "basic_string.h"
+      :fsize 251944
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-db5328"
+      :file "basic_string.tcc"
+      :fsize 54189
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-dcc3aa"
+      :file "alloc_traits.h"
+      :fsize 27737
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-daedb2"
+      :file "sstream.tcc"
+      :fsize 10148
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-e64b52"
+      :file "memoryfwd.h"
+      :fsize 2504
+      :lastmodtime '(25148 32399 0 0)))
+  :file "!usr!include!c++!11!bits!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

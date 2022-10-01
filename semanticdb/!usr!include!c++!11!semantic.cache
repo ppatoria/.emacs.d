@@ -1,0 +1,240 @@
+;; Object semanticdb-project-database-file-1d150b4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1d150b4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-22a5e42"
+      :major-mode c++-mode
+      :tags 
+        '( ("_GLIBCXX_CHRONO" variable (:constant-flag t) nil [1191 1206])
+            ("ratio" include (:system-flag t) nil [1303 1319])
+            ("type_traits" include (:system-flag t) nil [1320 1342])
+            ("limits" include (:system-flag t) nil [1343 1360])
+            ("ctime" include (:system-flag t) nil [1361 1377])
+            ("bits/parse_numbers.h" include (:system-flag t) nil [1378 1409])
+            ("_GLIBCXX_VISIBILITY" function (:type ("std" type (:type "class") nil nil)) nil [1520 96935]))          
+      :file "chrono"
+      :pointmax 96996
+      :fsize 96995
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((DEFAULT 1544 . 1551) (NAMESPACE 1510 . 1519) (symbol 1222 . 1235) (symbol 1218 . 1221) (symbol 1211 . 1217) (punctuation 1210 . 1211))
+      :lexical-table 
+        '(("_GLIBCXX_CHRONO" . ((number "1" 1207 . 1208)))
+          )
+)
+    (semanticdb-table "semanticdb-table-19a3b1c"
+      :major-mode c++-mode
+      :tags 
+        '( ("_GLIBCXX_STRING" variable (:constant-flag t) nil [1259 1274])
+            ("bits/c++config.h" include (:system-flag t) nil [1305 1332])
+            ("bits/stringfwd.h" include (:system-flag t) nil [1333 1360])
+            ("bits/char_traits.h" include (:system-flag t) nil [1361 1390])
+            ("bits/allocator.h" include (:system-flag t) nil [1431 1458])
+            ("bits/cpp_type_traits.h" include (:system-flag t) nil [1459 1492])
+            ("bits/localefwd.h" include (:system-flag t) nil [1493 1520])
+            ("bits/ostream_insert.h" include (:system-flag t) nil [1562 1594])
+            ("bits/stl_iterator_base_types.h" include (:system-flag t) nil [1595 1636])
+            ("bits/stl_iterator_base_funcs.h" include (:system-flag t) nil [1637 1678])
+            ("bits/stl_iterator.h" include (:system-flag t) nil [1679 1709])
+            ("bits/stl_function.h" include (:system-flag t) nil [1710 1740])
+            ("ext/numeric_traits.h" include (:system-flag t) nil [1753 1784])
+            ("bits/stl_algobase.h" include (:system-flag t) nil [1785 1815])
+            ("bits/range_access.h" include (:system-flag t) nil [1915 1945])
+            ("bits/basic_string.h" include (:system-flag t) nil [1946 1976])
+            ("bits/basic_string.tcc" include (:system-flag t) nil [1977 2009]))          
+      :file "string"
+      :pointmax 4646
+      :fsize 4645
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((symbol 1290 . 1303) (symbol 1286 . 1289) (symbol 1279 . 1285) (punctuation 1278 . 1279))
+      :lexical-table 
+        '(("_GLIBCXX_STRING" . ((number "1" 1275 . 1276)))
+          )
+)
+    (semanticdb-table "semanticdb-table-1691008"
+      :major-mode c++-mode
+      :tags 
+        '( ("bits/c++config.h" include (:system-flag t) nil [1568 1595])
+            ("time.h" include (:system-flag t) nil [1596 1613])
+            ("_GLIBCXX_CTIME" variable (:constant-flag t) nil [1646 1660])
+            ("std" type
+               (:members 
+                  ( ("clock_t" variable (:type "int") (reparse-symbol namespacesubparts) [1895 1903])
+                    ("time_t" variable (:type "int") (reparse-symbol namespacesubparts) [1914 1921])
+                    ("tm" variable (:type "int") (reparse-symbol namespacesubparts) [1932 1935])
+                    ("clock" variable (:type "int") (reparse-symbol namespacesubparts) [1947 1953])
+                    ("difftime" variable (:type "int") (reparse-symbol namespacesubparts) [1964 1973])
+                    ("mktime" variable (:type "int") (reparse-symbol namespacesubparts) [1984 1991])
+                    ("time" variable (:type "int") (reparse-symbol namespacesubparts) [2002 2007])
+                    ("asctime" variable (:type "int") (reparse-symbol namespacesubparts) [2018 2026])
+                    ("ctime" variable (:type "int") (reparse-symbol namespacesubparts) [2037 2043])
+                    ("gmtime" variable (:type "int") (reparse-symbol namespacesubparts) [2054 2061])
+                    ("localtime" variable (:type "int") (reparse-symbol namespacesubparts) [2072 2082])
+                    ("strftime" variable (:type "int") (reparse-symbol namespacesubparts) [2093 2102]))                  
+                :type "namespace")
+                nil [1869 2104]))          
+      :file "ctime"
+      :pointmax 2299
+      :fsize 2298
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((punctuation 2092 . 2093) (punctuation 2091 . 2092) (USING 2085 . 2090) (punctuation 2071 . 2072) (punctuation 2070 . 2071) (USING 2064 . 2069) (punctuation 2053 . 2054) (punctuation 2052 . 2053) (USING 2046 . 2051) (punctuation 2036 . 2037) (punctuation 2035 . 2036) (USING 2029 . 2034) (punctuation 2017 . 2018) (punctuation 2016 . 2017) (USING 2010 . 2015) (punctuation 2001 . 2002) (punctuation 2000 . 2001) (USING 1994 . 1999) (punctuation 1983 . 1984) (punctuation 1982 . 1983) (USING 1976 . 1981) (punctuation 1963 . 1964) (punctuation 1962 . 1963) (USING 1956 . 1961) (punctuation 1946 . 1947) (punctuation 1945 . 1946) (USING 1939 . 1944) (punctuation 1931 . 1932) (punctuation 1930 . 1931) (USING 1924 . 1929) (punctuation 1913 . 1914) (punctuation 1912 . 1913) (USING 1906 . 1911) (punctuation 1894 . 1895) (punctuation 1893 . 1894) (USING 1887 . 1892) (symbol 1553 . 1566) (symbol 1549 . 1552) (symbol 1542 . 1548) (punctuation 1541 . 1542))
+      :lexical-table 
+        '(("_GLIBCXX_CTIME" . ((number "1" 1661 . 1662)))
+          )
+)
+    (semanticdb-table "semanticdb-table-3483028"
+      :major-mode c++-mode
+      :tags 
+        '( ("_GLIBCXX_SSTREAM" variable (:constant-flag t) nil [1237 1253])
+            ("istream" include (:system-flag t) nil [1284 1302])
+            ("ostream" include (:system-flag t) nil [1303 1321])
+            ("bits/alloc_traits.h" include (:system-flag t) nil [1322 1352])
+            ("_GLIBCXX_LVAL_REF_QUAL" variable (:constant-flag t) nil [1493 1515])
+            ("_GLIBCXX_VISIBILITY" function (:type ("std" type (:type "class") nil nil)) nil [1534 39086])
+            ("bits/sstream.tcc" include (:system-flag t) nil [39132 39159]))          
+      :file "sstream"
+      :pointmax 39191
+      :fsize 39190
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((DEFAULT 1558 . 1565) (NAMESPACE 1524 . 1533) (symbol 1269 . 1282) (symbol 1265 . 1268) (symbol 1258 . 1264) (punctuation 1257 . 1258))
+      :lexical-table 
+        '(("_GLIBCXX_SSTREAM" . ((number "1" 1254 . 1255)))
+          )
+)
+    (semanticdb-table "semanticdb-table-2245120"
+      :major-mode c++-mode
+      :tags 
+        '( ("bits/c++config.h" include (:system-flag t) nil [1570 1597])
+            ("_GLIBCXX_CSTDLIB" variable (:constant-flag t) nil [1632 1648])
+            ("EXIT_SUCCESS" variable (:constant-flag t) nil [1904 1916])
+            ("EXIT_FAILURE" variable (:constant-flag t) nil [1927 1939])
+            ("std" type
+               (:members 
+                  ( ("_GLIBCXX_NORETURN" variable (:type "int") (reparse-symbol namespacesubparts) [1998 2016])
+                    ("atexit" function
+                       (:prototype-flag t
+                        :arguments 
+                          ( ("" function
+                               (:function-pointer t
+                                :arguments 
+                                  ( ("" variable (:type "void") (reparse-symbol arg-sub-list) [2050 2055]))                                  
+                                :type "void")
+                                nil nil))                          
+                        :type "int")
+                        (reparse-symbol namespacesubparts) [2030 2066])
+                    ("_GLIBCXX_NORETURN" variable (:type "int") (reparse-symbol namespacesubparts) [2104 2122]))                  
+                :type "namespace")
+                nil [1943 2361]))          
+      :file "cstdlib"
+      :pointmax 6326
+      :fsize 6325
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((semantic-list 2101 . 2103) (THROW 2095 . 2100) (semantic-list 2089 . 2094) (symbol 2085 . 2089) (VOID 2080 . 2084) (string 2076 . 2079) (EXTERN 2069 . 2075) (string 2026 . 2029) (EXTERN 2019 . 2025) (semantic-list 1995 . 1997) (THROW 1989 . 1994) (semantic-list 1982 . 1988) (symbol 1977 . 1982) (VOID 1972 . 1976) (string 1968 . 1971) (EXTERN 1961 . 1967) (symbol 1555 . 1568) (symbol 1551 . 1554) (symbol 1544 . 1550) (punctuation 1543 . 1544))
+      :lexical-table 
+        '(("_GLIBCXX_CSTDLIB" . ((number "1" 1649 . 1650)))
+          ("EXIT_FAILURE" . ((number "1" 1940 . 1941)))
+          ("EXIT_SUCCESS" . ((number "0" 1917 . 1918)))
+          )
+)
+    (semanticdb-table "semanticdb-table-14ab0c4"
+      :major-mode c++-mode
+      :tags 
+        '( ("_GLIBCXX_NUMERIC_LIMITS" variable (:constant-flag t) nil [1367 1390])
+            ("bits/c++config.h" include (:system-flag t) nil [1421 1448])
+            ("__glibcxx_integral_traps" variable (:constant-flag t) nil [2842 2866])
+            ("__glibcxx_float_has_denorm_loss" variable (:constant-flag t) nil [3022 3053])
+            ("__glibcxx_float_traps" variable (:constant-flag t) nil [3107 3128])
+            ("__glibcxx_float_tinyness_before" variable (:constant-flag t) nil [3192 3223])
+            ("__glibcxx_double_has_denorm_loss" variable (:constant-flag t) nil [3379 3411])
+            ("__glibcxx_double_traps" variable (:constant-flag t) nil [3466 3488])
+            ("__glibcxx_double_tinyness_before" variable (:constant-flag t) nil [3553 3585])
+            ("__glibcxx_long_double_has_denorm_loss" variable (:constant-flag t) nil [3751 3788])
+            ("__glibcxx_long_double_traps" variable (:constant-flag t) nil [3848 3875])
+            ("__glibcxx_long_double_tinyness_before" variable (:constant-flag t) nil [3945 3982])
+            ("__glibcxx_signed_b" variable (:constant-flag t) nil [4068 4086])
+            ("__glibcxx_min_b" variable (:constant-flag t) nil [4115 4130])
+            ("__glibcxx_max_b" variable (:constant-flag t) nil [4216 4231])
+            ("__glibcxx_digits_b" variable (:constant-flag t) nil [4362 4380])
+            ("__glibcxx_digits10_b" variable (:constant-flag t) nil [4505 4525])
+            ("__glibcxx_signed" variable (:constant-flag t) nil [4586 4602])
+            ("__glibcxx_min" variable (:constant-flag t) nil [4667 4680])
+            ("__glibcxx_max" variable (:constant-flag t) nil [4742 4755])
+            ("__glibcxx_digits" variable (:constant-flag t) nil [4817 4833])
+            ("__glibcxx_digits10" variable (:constant-flag t) nil [4898 4916])
+            ("__glibcxx_max_digits10" variable (:constant-flag t) nil [4984 5006])
+            ("_GLIBCXX_VISIBILITY" function (:type ("std" type (:type "class") nil nil)) nil [5049 71479]))          
+      :file "limits"
+      :pointmax 71675
+      :fsize 71674
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((DEFAULT 5073 . 5080) (NAMESPACE 5039 . 5048) (symbol 1406 . 1419) (symbol 1402 . 1405) (symbol 1395 . 1401) (punctuation 1394 . 1395))
+      :lexical-table 
+        '(("__glibcxx_double_has_denorm_loss" . ((symbol "false" 3412 . 3417)))
+          ("__glibcxx_max_b" (spp-arg-list ("T" "B") 4231 . 4236) . ((semantic-list "(__glibcxx_signed_b (T,B) ?						\\
+   (((((T)1 << (__glibcxx_digits_b (T,B) - 1)) - 1) << 1) + 1) : ~(T)0)" 4246 . 4352)))
+          ("__glibcxx_digits_b" (spp-arg-list ("T" "B") 4380 . 4385) . ((semantic-list "(B - __glibcxx_signed_b (T,B))" 4393 . 4423)))
+          ("__glibcxx_double_tinyness_before" . ((symbol "false" 3586 . 3591)))
+          ("_GLIBCXX_NUMERIC_LIMITS" . ((number "1" 1391 . 1392)))
+          ("__glibcxx_long_double_traps" . ((symbol "false" 3876 . 3881)))
+          ("__glibcxx_digits10_b" (spp-arg-list ("T" "B") 4525 . 4530) . ((semantic-list "(__glibcxx_digits_b (T,B) * 643L / 2136)" 4536 . 4576)))
+          ("__glibcxx_long_double_tinyness_before" . ((symbol "false" 3983 . 3988)))
+          ("__glibcxx_float_traps" . ((symbol "false" 3129 . 3134)))
+          ("__glibcxx_double_traps" . ((symbol "false" 3489 . 3494)))
+          ("__glibcxx_min_b" (spp-arg-list ("T" "B") 4130 . 4135) . ((semantic-list "(__glibcxx_signed_b (T,B) ? -__glibcxx_max_b (T,B) - 1 : (T)0)" 4144 . 4206)))
+          ("__glibcxx_float_has_denorm_loss" . ((symbol "false" 3054 . 3059)))
+          ("__glibcxx_float_tinyness_before" . ((symbol "false" 3224 . 3229)))
+          ("__glibcxx_long_double_has_denorm_loss" . ((symbol "false" 3789 . 3794)))
+          ("__glibcxx_signed_b" (spp-arg-list ("T" "B") 4086 . 4091) . ((semantic-list "((T)(-1) < 0)" 4092 . 4105)))
+          ("__glibcxx_integral_traps" . ((symbol "true" 2867 . 2871)))
+          )
+)
+    (semanticdb-table "semanticdb-table-aa92a8"
+      :major-mode c++-mode
+      :tags 
+        '( ("_GLIBCXX_RATIO" variable (:constant-flag t) nil [1185 1199])
+            ("type_traits" include (:system-flag t) nil [1296 1318])
+            ("cstdint" include (:system-flag t) nil [1319 1337])
+            ("_GLIBCXX_VISIBILITY" function (:type ("std" type (:type "class") nil nil)) nil [1373 20053]))          
+      :file "ratio"
+      :pointmax 20109
+      :fsize 20108
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((DEFAULT 1397 . 1404) (NAMESPACE 1363 . 1372) (symbol 1215 . 1228) (symbol 1211 . 1214) (symbol 1204 . 1210) (punctuation 1203 . 1204))
+      :lexical-table 
+        '(("_GLIBCXX_RATIO" . ((number "1" 1200 . 1201)))
+          )
+)
+    (semanticdb-table "semanticdb-table-aadb56"
+      :major-mode c++-mode
+      :tags 
+        '( ("_GLIBCXX_TYPE_TRAITS" variable (:constant-flag t) nil [1192 1212])
+            ("bits/c++config.h" include (:system-flag t) nil [1309 1336])
+            ("_GLIBCXX_VISIBILITY" function (:type ("std" type (:type "class") nil nil)) nil [1348 107491]))          
+      :file "type_traits"
+      :pointmax 107560
+      :fsize 107559
+      :lastmodtime '(25148 32399 0 0)
+      :unmatched-syntax '((DEFAULT 1372 . 1379) (NAMESPACE 1338 . 1347) (symbol 1228 . 1241) (symbol 1224 . 1227) (symbol 1217 . 1223) (punctuation 1216 . 1217))
+      :lexical-table 
+        '(("_GLIBCXX_TYPE_TRAITS" . ((number "1" 1213 . 1214)))
+          )
+)
+    (semanticdb-table "semanticdb-table-c1ca3a"
+      :file "istream"
+      :fsize 33274
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-d8bd40"
+      :file "ostream"
+      :fsize 25976
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-e1c82a"
+      :file "cstdint"
+      :fsize 2335
+      :lastmodtime '(25148 32399 0 0))
+    (semanticdb-table "semanticdb-table-12f98e6"
+      :file "iostream"
+      :fsize 2697
+      :lastmodtime '(25148 32399 0 0)))
+  :file "!usr!include!c++!11!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

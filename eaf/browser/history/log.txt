@@ -1,0 +1,90 @@
+Googleᛝhttps://www.google.com/ᛡ7.75
+doomemacs/snippets: The Doom Emacs snippets libraryᛝhttps://github.com/doomemacs/snippetsᛡ7.0
+cpp-beautifier/Documentation at master · luchev/cpp-beautifier · GitHubᛝhttps://github.com/luchev/cpp-beautifier/tree/master/Documentationᛡ7.0
+GitHub - luchev/cpp-beautifier: C++ Code formatterᛝhttps://github.com/luchev/cpp-beautifierᛡ5.5
+C/C++ layerᛝhttps://develop.spacemacs.org/layers/+lang/c-c++/README.htmlᛡ5.0
+clang-format configuratorᛝhttps://zed0.co.uk/clang-format-configurator/ᛡ4.75
+My clang format file. In sample.cpp is sample outputᛝhttps://gist.github.com/gelldur/d7bc3ea226aebcf8cc879df1e8524236ᛡ4.75
+GitHub - 9re/yasnippet-snippetsᛝhttps://github.com/9re/yasnippet-snippetsᛡ4.0
+eaf-browser/package-lock.json at master · emacs-eaf/eaf-browserᛝhttps://github.com/emacs-eaf/eaf-browser/blob/master/package-lock.jsonᛡ4.0
+emacs-eaf/eaf-browser: EAF Browser, a modern, customizable and extensible browser in Emacsᛝhttps://github.com/emacs-eaf/eaf-browserᛡ4.0
+GitHub - nilsdeppe/emacs-clang-rename: Emacs package to call clang-rename.ᛝhttps://github.com/nilsdeppe/emacs-clang-renameᛡ4.0
+Grammarlyᛝhttps://app.grammarly.com/ᛡ3.75
+Page not found · GitHubᛝhttps://github.com/sigma/gh.el/blob/masterᛡ3.25
+sigma/gh.el: GitHub API library for Emacsᛝhttps://github.com/sigma/gh.elᛡ3.25
+EmacsWiki: sqlplus.elᛝhttps://www.emacswiki.org/emacs/sqlplus.elᛡ3.25
+Ubuntu Mono vs Consolas detailed comparison as of 2022 - Slantᛝhttps://www.slant.co/versus/226/230/~ubuntu-mono_vs_consolasᛡ3.25
+How can I disable company-mode in a shell when it is remote? - Emacs Stack Exchangeᛝhttps://emacs.stackexchange.com/questions/55028/how-can-i-disable-company-mode-in-a-shell-when-it-is-remoteᛡ3.25
+Getting started with Clang-Format Style Optionsᛝhttps://www.clangpowertools.com/blog/getting-started-with-clang-format-style-options.htmlᛡ3.25
+Clang-format style comparisonᛝhttps://gist.github.com/andrewseidl/8066c18e97c40086c183ᛡ3.25
+Coding Standards, C++ FAQᛝhttps://isocpp.org/wiki/faq/coding-standardsᛡ3.25
+GitHub - emacs-eaf/emacs-application-framework: EAF, an extensible framework that revolutionizes the graphical capabilities of Emacsᛝhttps://github.com/emacs-eaf/emacs-application-frameworkᛡ2.5
+gh.el/gh.el at master · sigma/gh.el · GitHubᛝhttps://github.com/sigma/gh.el/blob/master/gh.elᛡ2.5
+Search · sqlplus.elᛝhttps://github.com/search?q=sqlplus.elᛡ2.5
+yasnippet-snippets/cmake-mode at master · 9re/yasnippet-snippets · GitHubᛝhttps://github.com/9re/yasnippet-snippets/tree/master/cmake-modeᛡ2.5
+snippets/cmake-mode at master · doomemacs/snippetsᛝhttps://github.com/doomemacs/snippets/tree/master/cmake-modeᛡ2.5
+zed0/clang-format-configurator: Interactively view changes in clang-format configurationᛝhttps://github.com/zed0/clang-format-configuratorᛡ2.5
+cpp-beautifier/Docs.pdf at master · luchev/cpp-beautifier · GitHubᛝhttps://github.com/luchev/cpp-beautifier/blob/master/Documentation/Docs.pdfᛡ2.5
+cpp-beautifier/Docs.docx at master · luchev/cpp-beautifier · GitHubᛝhttps://github.com/luchev/cpp-beautifier/blob/master/Documentation/Docs.docxᛡ2.5
+C/C++ Source Code Formattingᛝhttp://www.sourceformat.com/code-formatting.htmᛡ2.5
+Format Source Code within Editors & IDEsᛝhttp://www.sourceformat.com/integrate.htmlᛡ2.5
+C/C++ Source Code Beautifierᛝhttp://www.sourceformat.com/cpp-beautifier.htmᛡ2.5
+How to autoformat (not just auto-indent) C++ code in emacs? - Stack Overflowᛝhttps://stackoverflow.com/questions/23973745/how-to-autoformat-not-just-auto-indent-c-code-in-emacsᛡ2.5
+Artistic Style - Indexᛝhttps://astyle.sourceforge.net/ᛡ2.5
+lassik/emacs-format-all-the-code: Auto-format source code in many languages with one commandᛝhttps://github.com/lassik/emacs-format-all-the-codeᛡ2.5
+Renaming a file - GitHub Docsᛝhttps://docs.github.com/en/repositories/working-with-files/managing-files/renaming-a-fileᛡ2.5
+How to rename or move files in gitᛝhttps://www.educative.io/answers/how-to-rename-or-move-files-in-gitᛡ2.5
+LibTooling — Clang 16.0.0git documentationᛝhttps://clang.llvm.org/docs/LibTooling.htmlᛡ2.5
+Clang-Rename — Extra Clang Tools 16.0.0git documentationᛝhttps://clang.llvm.org/extra/clang-rename.htmlᛡ2.5
+emacs-clang-rename/emacs-clang-rename.el at master · nilsdeppe/emacs-clang-rename · GitHubᛝhttps://github.com/nilsdeppe/emacs-clang-rename/blob/master/emacs-clang-rename.elᛡ2.5
+c++ - Conversion to base class never used - Stack Overflowᛝhttps://stackoverflow.com/questions/52195809/conversion-to-base-class-never-usedᛡ2.5
+Introduction to std::chrono · Moments of Inertiaᛝhttps://rachelnertia.github.io/programming/2018/01/07/intro-to-std-chrono/ᛡ1.75
+Sign In to O'Reillyᛝhttps://www.oreilly.com/member/login/ᛡ1.75
+Homeᛝhttps://learning.oreilly.com/home/ᛡ1.75
+Software developerᛝhttps://learning.oreilly.com/courses/software-developer/ᛡ1.75
+Learn Git in 3 Hoursᛝhttps://learning.oreilly.com/videos/learn-git-in/9781789348231/ᛡ1.75
+YouTubeᛝhttps://www.youtube.com/ᛡ1.75
+Evil - emacs-eaf/emacs-application-framework Wikiᛝhttps://github-wiki-see.page/m/emacs-eaf/emacs-application-framework/wiki/Evilᛡ1.75
+Evil · emacs-eaf/emacs-application-framework Wiki · GitHubᛝhttps://github.com/emacs-eaf/emacs-application-framework/wiki/Evilᛡ1.75
+C/C++ Development Environment for Emacsᛝhttps://tuhdo.github.io/c-ide.htmlᛡ1.75
+rtags — Homebrew Formulaeᛝhttps://formulae.brew.sh/formula/rtagsᛡ1.75
+emacswiki.org/sqlplus.el at master · emacsmirror/emacswiki.org · GitHubᛝhttps://github.com/emacsmirror/emacswiki.org/blob/master/sqlplus.elᛡ1.75
+GitHub · Where software is builtᛝhttps://github.com/sessions/verified-deviceᛡ1.75
+gh.el/gh-url.el at master · sigma/gh.elᛝhttps://github.com/sigma/gh.el/blob/master/gh-url.elᛡ1.75
+catchorg/Catch2: A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)ᛝhttps://github.com/catchorg/Catch2ᛡ1.75
+elpa/yasnippet-20160924.2001/snippets/cmake-mode · master · Hong Wei / dot.emacs.d · GitLabᛝhttps://gitlab.umiacs.umd.edu/hyw/dot.emacs.d/-/tree/master/elpa/yasnippet-20160924.2001/snippets/cmake-modeᛡ1.75
+[CMake] cmake snippetsᛝhttps://www.mail-archive.com/cmake@cmake.org/msg41145.htmlᛡ1.75
+W3M Homepageᛝhttps://w3m.sourceforge.net/ᛡ1.75
+software installation - How do I install applications in Ubuntu? - Ask Ubuntuᛝhttps://askubuntu.com/questions/307280/how-do-i-install-applications-in-ubuntuᛡ1.75
+EmacsWiki: Eshell Aliasᛝhttps://www.emacswiki.org/emacs/EshellAliasᛡ1.75
+GitHub - sharkdp/fd: A simple, fast and user-friendly alternative to 'find'ᛝhttps://github.com/sharkdp/fdᛡ1.75
+company and company-shell super slow over TRAMP? : emacsᛝhttps://www.reddit.com/r/emacs/comments/oh36yi/company_and_companyshell_super_slow_over_tramp/ᛡ1.75
+ClangFormat — Clang 16.0.0git documentationᛝhttps://clang.llvm.org/docs/ClangFormat.htmlᛡ1.75
+Clang-Format Style Options — Clang 16.0.0git documentationᛝhttps://clang.llvm.org/docs/ClangFormatStyleOptions.htmlᛡ1.75
+init file - How can I set up clang-format in emacs? - Emacs Stack Exchangeᛝhttps://emacs.stackexchange.com/questions/55635/how-can-i-set-up-clang-format-in-emacsᛡ1.75
+Best C++ Formatter and Beautifierᛝhttps://codebeautify.org/cpp-formatter-beautifierᛡ1.75
+GitHub - luchev/cpp-beautifier: C++ Code formatterᛝhttps://github.com/luchev/cpp-beautifier/tree/master/Beautifierᛡ1.75
+Preview SourceFormatX Screenshotsᛝhttp://www.sourceformat.com/preview.htmlᛡ1.75
+How do I use astyle within Emacs? - Stack Overflowᛝhttps://stackoverflow.com/questions/801983/how-do-i-use-astyle-within-emacsᛡ1.75
+Using Emacs as a C++ Beautifierᛝhttp://www.verycomputer.com/35_5d05af0752d8b877_1.htmᛡ1.75
+Artistic Styleᛝhttps://astyle.sourceforge.net/astyle.htmlᛡ1.75
+Format C/C++ Code Using Clang-Format - Lei Mao's Log Bookᛝhttps://leimao.github.io/blog/Clang-Format-Quick-Tutorial/ᛡ1.75
+Home | Educativeᛝhttps://www.educative.io/exploreᛡ1.75
+Naming conventions — GROMACS 5.1.1 documentationᛝhttps://manual.gromacs.org/5.1.1/dev-manual/naming.htmlᛡ1.75
+Any rules about underscores in filenames in C/C++? - Stack Overflowᛝhttps://stackoverflow.com/questions/41684076/any-rules-about-underscores-in-filenames-in-c-cᛡ1.75
+eaf-browser/package-lock.json at master · emacs-eaf/eaf-browserᛝhttps://github.com/emacs-eaf/eaf-browser/blame/master/package-lock.jsonᛡ1.75
+GitHub - emacsmirror/srefactor: A refactoring tool based on Semantic parser frameworkᛝhttps://github.com/emacsmirror/srefactorᛡ1.75
+Best Ways to Fix Vmmem High Memory Usage in Windows 10ᛝhttps://windowsreport.com/vmmem-windows-10/ᛡ1.75
+How To Setup Clang Tooling For LLVM — Clang 16.0.0git documentationᛝhttps://clang.llvm.org/docs/HowToSetupToolingForLLVM.htmlᛡ1.75
+How to install clang-tools ubuntu package on Ubuntu 20.04/Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04ᛝhttps://zoomadmin.com/HowToInstall/UbuntuPackage/clang-toolsᛡ1.75
+Spacemacs documentationᛝhttps://develop.spacemacs.org/doc/DOCUMENTATION.htmlᛡ1.75
+JSON Compilation Database Format Specification — Clang 16.0.0git documentationᛝhttps://clang.llvm.org/docs/JSONCompilationDatabase.htmlᛡ1.75
+version control - How do I discard unstaged changes in Git? - Stack Overflowᛝhttps://stackoverflow.com/questions/52704/how-do-i-discard-unstaged-changes-in-gitᛡ1.75
+Online Learning and Training - O'Reilly Mediaᛝhttps://www.oreilly.com/online-learning/?utm_medium=search&utm_source=google.com&utm_campaign=B2B+Search&utm_content=live+demo&gclid=EAIaIQobChMIzKfSvoue-gIVIRxlCh0jKwyfEAAYASAAEgKB7_D_BwEᛡ1.5
+Emacs Tutorial 20 - Yasnippet! - YouTubeᛝhttps://www.youtube.com/watch?v=39u8K12rXHEᛡ1.5
+Catch2/tutorial.md at devel · catchorg/Catch2ᛝhttps://github.com/catchorg/Catch2/blob/devel/docs/tutorial.md#topᛡ1.5
+Catch2/cmake-integration.md at devel · catchorg/Catch2ᛝhttps://github.com/catchorg/Catch2/blob/devel/docs/cmake-integration.md#topᛡ1.5
+Grammarly: Free Online Writing Assistantᛝhttps://www.grammarly.com/?q=brand&utm_source=google&utm_medium=cpc&utm_campaign=brand_core_usgroupb&utm_content=brandcoreusgroupb&utm_term=grammarly&matchtype=e&placement=&network=g&gclid=EAIaIQobChMI8OPn---3-gIVCrLICh3lHAnZEAAYASAAEgJZwvD_BwE&gclsrc=aw.dsᛡ1.5
+Grammarlyᛝhttps://app.grammarly.com/?network=g&utm_source=google&matchtype=e&gclid=EAIaIQobChMI8OPn---3-gIVCrLICh3lHAnZEAAYASAAEgJZwvD_BwE&placement=&q=brand&utm_content=brandcoreusgroupb&gclsrc=aw.ds&utm_campaign=brand_core_usgroupb&utm_medium=cpc&utm_term=grammarlyᛡ1.5
+Clang-format configurator | Hacker Newsᛝhttps://news.ycombinator.com/item?id=10478409ᛡ1.5
+Human verification - Stack Overflowᛝhttps://stackoverflow.com/nocaptcha?s=722bd6ea-101e-4062-93ea-962337caf953ᛡ1.5

@@ -1,0 +1,27 @@
+;; Object semanticdb-project-database-file-88d8e6
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-88d8e6"
+  :tables
+  (list
+
+    (semanticdb-table "semanticdb-table-365c8fa"
+      :major-mode c++-mode
+      :tags 
+        '( ("CATCH_CONFIG_MAIN" variable (:constant-flag t) nil [9 26])
+            ("catch2/catch_all.hpp" include nil nil [27 58])
+            ("dt/local_date_time.hpp" include (:system-flag t) nil [60 93])
+            ("dt/utc_date_time.hpp" include (:system-flag t) nil [94 125])
+            ("iostream" include (:system-flag t) nil [126 145])
+            ("TEST_CASE" function (:type "int") nil [147 377]))          
+      :file "utc_date_time_tests.cpp"
+      :pointmax 378
+      :fsize 377
+      :lastmodtime '(25399 14893 719297 100000)
+      :unmatched-syntax '((string 165 . 173) (string 157 . 163))
+      :lexical-table 
+        '(("CATCH_CONFIG_MAIN")
+          )
+))
+  :file "!mnt!c!Users!ppato!source!repos!datetime!tests!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

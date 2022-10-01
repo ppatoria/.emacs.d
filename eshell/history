@@ -1,0 +1,35 @@
+cd ~/
+ln -s /mnt/c/Users/ppato/source/repo repo
+ls
+cd repo
+ls /mnt/c/Users/ppato/source/repo  
+ls /mnt/c/Users/ppato/source/repos
+unlink repo
+ln -s /mnt/c/Users/ppato/source/repos repos
+ls
+cd repos/
+ls
+find-file hetrogenous_types.cpp 
+git clone --depth=1 -b master https://github.com/emacs-eaf/emacs-application-framework.git ~/.emacs.d/site-lisp/emacs-application-framework/
+git clone --depth=1 -b master https://github.com/emacs-eaf/emacs-application-framework.git ~/.emacs.d/site-lisp/emacs-application-framework/
+ls
+sudo apt install python
+ls
+cd ..
+cat .emacs
+cd .emacs.d/
+ls
+cd site-lisp/
+ls
+cd emacs-application-framework/
+ls
+ls
+chmod 
+chmod 
+cd ~/
+gtags
+ls
+ls -a -h -l
+shell
+cd ~/repos/
+rc -j .
